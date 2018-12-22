@@ -34,7 +34,7 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="scalingPercent" value="45" />
+                                                <entry key="scalingPercent" value="65" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -72,6 +72,7 @@
                                       <entry key="backgroundImage" value="D:\Jean\Desktop\Lasone\logo_circle.png" />
                                       <entry key="foregroundImage" value="D:\Jean\Desktop\Lasone\logo_L.png" />
                                       <entry key="legacyIconShape" value="CIRCLE" />
+                                      <entry key="webIconShape" value="CIRCLE" />
                                     </map>
                                   </option>
                                 </PersistentState>
