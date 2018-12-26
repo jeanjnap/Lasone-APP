@@ -77,7 +77,7 @@
             android:layout_marginTop="16dp"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/imageView14"
-            app:srcCompat="@drawable/lock_question" />
+            app:srcCompat="@drawable/lock" />
 
         <EditText
             android:id="@+id/textView3"

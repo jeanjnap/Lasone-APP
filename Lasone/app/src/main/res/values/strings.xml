@@ -4,4 +4,8 @@
     <string name="pass">Password</string>
     <string name="login">Login</string>
     <string name="createAccount">Create Account</string>
+    <string name="register">Register</string>
+    <string name="user">User</string>
+    <string name="name">Name</string>
+    <string name="terms">I read and accept the license terms</string>
 </resources>
