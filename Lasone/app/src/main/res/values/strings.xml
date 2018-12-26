@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Lasone</string>
+    <string name="email">E-mail</string>
+    <string name="pass">Password</string>
+    <string name="login">Login</string>
+    <string name="createAccount">Create Account</string>
 </resources>
